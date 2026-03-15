@@ -2,6 +2,6 @@
 
 - A Responsive Interactive Website Built With HTML, CSS, and JS.
 
-### Deom
+### Demo
 
 https://Ebrahim-Yousef.github.io/Special_Design-HTML_CSS_JS/
